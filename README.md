@@ -1,2 +1,4 @@
 # color-detection
-Color detection using computer-vision.
+Detect shapes using their colors.
+
+![alt text](image.png)
